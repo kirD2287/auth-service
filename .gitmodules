@@ -1,6 +1,0 @@
-[submodule "auth-service"]
-	path = auth-service
-	url = https://github.com/kirD2287/CRUD-MICROSIRVICES.git
-[submodule "project-service"]
-	path = project-service
-	url = https://github.com/kirD2287/CRUD-MICROSIRVICES.git

@@ -1,0 +1,1 @@
+{"version":3,"file":"add-role.dto.js","sourceRoot":"","sources":["../../../src/users/dto/add-role.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qDAAgE;AAEhE,MAAa,UAAU;CAOtB;AAPD,gCAOC;AAJY;IAFR,IAAA,0BAAQ,EAAC,EAAE,OAAO,EAAE,qBAAqB,EAAE,CAAC;IAC5C,IAAA,4BAAU,GAAE;;yCACS;AAGb;IAFR,IAAA,0BAAQ,EAAC,EAAE,EAAE,EAAE,OAAO,EAAE,oBAAoB,EAAE,CAAC;IAC/C,IAAA,4BAAU,GAAE;;0CACU"}
